@@ -1,0 +1,9 @@
+# Exact versions this benchmark was measured with.
+# vLLM 0.7.3 is pinned because later releases require torch>=2.10, which in turn
+# requires NVIDIA driver>=580. This run used driver 550.54.14 / CUDA 12.4.
+vllm==0.7.3
+torch==2.5.1
+transformers==4.51.3
+numpy
+pandas
+matplotlib

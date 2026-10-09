@@ -1,0 +1,157 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1570" height="790" viewBox="0 0 1570 790" font-family="'Comic Sans MS','Segoe Print','Bradley Hand',cursive">
+<rect width="1570" height="790" fill="#ffffff"/>
+<defs>
+<path id="p0" d="M 52.0,151.9 L 140.0,150.8 L 228.0,152.0 L 229.4,186.0 L 227.9,220.0 L 140.0,219.4 L 52.0,218.9 L 52.7,186.0 Z"/>
+<clipPath id="c0"><use href="#p0"/></clipPath>
+<pattern id="h0" width="18" height="18" patternUnits="userSpaceOnUse" patternTransform="rotate(-41)"><line x1="0" y1="0" x2="0" y2="18" stroke="#868e96" stroke-width="0.9" opacity="0.26"/></pattern>
+<path id="p1" d="M 262.0,138.7 L 350.0,137.9 L 438.0,138.6 L 438.0,186.0 L 437.1,234.0 L 350.0,235.4 L 262.0,233.6 L 262.6,186.0 Z"/>
+<clipPath id="c1"><use href="#p1"/></clipPath>
+<pattern id="h1" width="18" height="18" patternUnits="userSpaceOnUse" patternTransform="rotate(-41)"><line x1="0" y1="0" x2="0" y2="18" stroke="#1971c2" stroke-width="0.9" opacity="0.26"/></pattern>
+<path id="p2" d="M 472.0,139.2 L 560.0,138.8 L 648.0,137.4 L 648.4,186.0 L 646.8,234.0 L 560.0,235.0 L 472.0,234.1 L 473.2,186.0 Z"/>
+<clipPath id="c2"><use href="#p2"/></clipPath>
+<pattern id="h2" width="18" height="18" patternUnits="userSpaceOnUse" patternTransform="rotate(-41)"><line x1="0" y1="0" x2="0" y2="18" stroke="#e67700" stroke-width="0.9" opacity="0.26"/></pattern>
+<path id="p3" d="M 682.0,137.6 L 770.0,137.2 L 858.0,138.1 L 858.0,186.0 L 858.4,234.0 L 770.0,234.3 L 682.0,234.9 L 682.8,186.0 Z"/>
+<clipPath id="c3"><use href="#p3"/></clipPath>
+<pattern id="h3" width="18" height="18" patternUnits="userSpaceOnUse" patternTransform="rotate(-41)"><line x1="0" y1="0" x2="0" y2="18" stroke="#2f9e44" stroke-width="0.9" opacity="0.26"/></pattern>
+<path id="p4" d="M 892.0,151.1 L 980.0,151.2 L 1068.0,151.7 L 1068.9,186.0 L 1067.1,220.0 L 980.0,220.0 L 892.0,220.7 L 893.5,186.0 Z"/>
+<clipPath id="c4"><use href="#p4"/></clipPath>
+<pattern id="h4" width="18" height="18" patternUnits="userSpaceOnUse" patternTransform="rotate(-41)"><line x1="0" y1="0" x2="0" y2="18" stroke="#868e96" stroke-width="0.9" opacity="0.26"/></pattern>
+<path id="p5" d="M 52.0,300.9 L 142.9,299.9 L 233.7,299.1 L 324.6,300.3 L 415.4,299.5 L 506.3,300.9 L 597.1,300.7 L 688.0,299.5 L 689.4,359.0 L 686.7,418.0 L 597.1,416.8 L 506.3,417.9 L 415.4,417.5 L 324.6,417.9 L 233.7,419.5 L 142.9,418.3 L 52.0,416.5 L 53.2,359.0 Z"/>
+<clipPath id="c5"><use href="#p5"/></clipPath>
+<pattern id="h5" width="18" height="18" patternUnits="userSpaceOnUse" patternTransform="rotate(-41)"><line x1="0" y1="0" x2="0" y2="18" stroke="#1971c2" stroke-width="0.9" opacity="0.26"/></pattern>
+<path id="p6" d="M 710.0,299.5 L 800.9,300.4 L 891.7,301.0 L 982.6,298.9 L 1073.4,299.7 L 1164.3,300.6 L 1255.1,299.1 L 1346.0,301.2 L 1345.8,359.0 L 1346.4,418.0 L 1255.1,416.8 L 1164.3,419.3 L 1073.4,418.7 L 982.6,417.9 L 891.7,418.7 L 800.9,416.8 L 710.0,417.0 L 711.5,359.0 Z"/>
+<clipPath id="c6"><use href="#p6"/></clipPath>
+<pattern id="h6" width="18" height="18" patternUnits="userSpaceOnUse" patternTransform="rotate(-41)"><line x1="0" y1="0" x2="0" y2="18" stroke="#2f9e44" stroke-width="0.9" opacity="0.26"/></pattern>
+<path id="p7" d="M 52.0,484.6 L 183.0,486.3 L 314.0,485.9 L 314.5,548.0 L 314.3,610.0 L 183.0,610.3 L 52.0,609.9 L 53.3,548.0 Z"/>
+<clipPath id="c7"><use href="#p7"/></clipPath>
+<pattern id="h7" width="18" height="18" patternUnits="userSpaceOnUse" patternTransform="rotate(-41)"><line x1="0" y1="0" x2="0" y2="18" stroke="#2f9e44" stroke-width="0.9" opacity="0.26"/></pattern>
+<path id="p8" d="M 66.0,583.0 L 141.0,584.1 L 216.0,582.6 L 216.9,591.0 L 216.7,598.0 L 141.0,596.8 L 66.0,598.7 L 64.9,591.0 Z"/>
+<clipPath id="c8"><use href="#p8"/></clipPath>
+<path id="p9" d="M 67.0,586.5 L 111.8,584.1 L 156.6,586.1 L 155.2,591.0 L 155.7,597.0 L 111.8,597.0 L 67.0,597.8 L 66.5,591.0 Z"/>
+<clipPath id="c9"><use href="#p9"/></clipPath>
+<path id="p10" d="M 457.3,486.1 L 588.3,487.0 L 719.3,484.7 L 720.1,548.0 L 720.5,610.0 L 588.3,610.5 L 457.3,610.9 L 457.4,548.0 Z"/>
+<clipPath id="c10"><use href="#p10"/></clipPath>
+<pattern id="h10" width="18" height="18" patternUnits="userSpaceOnUse" patternTransform="rotate(-41)"><line x1="0" y1="0" x2="0" y2="18" stroke="#e67700" stroke-width="0.9" opacity="0.26"/></pattern>
+<path id="p11" d="M 471.3,585.0 L 546.3,585.1 L 621.3,582.9 L 620.3,591.0 L 621.4,598.0 L 546.3,599.1 L 471.3,598.8 L 471.7,591.0 Z"/>
+<clipPath id="c11"><use href="#p11"/></clipPath>
+<path id="p12" d="M 472.3,585.8 L 506.1,583.9 L 539.8,583.9 L 540.2,591.0 L 538.7,597.0 L 506.1,595.7 L 472.3,597.5 L 472.4,591.0 Z"/>
+<clipPath id="c12"><use href="#p12"/></clipPath>
+<path id="p13" d="M 862.7,485.9 L 993.7,486.8 L 1124.7,487.1 L 1123.3,548.0 L 1123.7,610.0 L 993.7,608.6 L 862.7,608.8 L 862.5,548.0 Z"/>
+<clipPath id="c13"><use href="#p13"/></clipPath>
+<pattern id="h13" width="18" height="18" patternUnits="userSpaceOnUse" patternTransform="rotate(-41)"><line x1="0" y1="0" x2="0" y2="18" stroke="#e03131" stroke-width="0.9" opacity="0.26"/></pattern>
+<path id="p14" d="M 876.7,582.6 L 951.7,585.2 L 1026.7,582.7 L 1026.1,591.0 L 1028.1,598.0 L 951.7,598.3 L 876.7,597.1 L 876.0,591.0 Z"/>
+<clipPath id="c14"><use href="#p14"/></clipPath>
+<path id="p15" d="M 877.7,585.0 L 902.3,585.9 L 927.0,585.0 L 926.2,591.0 L 927.0,597.0 L 902.3,598.1 L 877.7,598.3 L 878.9,591.0 Z"/>
+<clipPath id="c15"><use href="#p15"/></clipPath>
+<path id="p16" d="M 1268.0,487.2 L 1399.0,485.1 L 1530.0,485.8 L 1529.7,548.0 L 1529.7,610.0 L 1399.0,609.4 L 1268.0,610.5 L 1267.8,548.0 Z"/>
+<clipPath id="c16"><use href="#p16"/></clipPath>
+<pattern id="h16" width="18" height="18" patternUnits="userSpaceOnUse" patternTransform="rotate(-41)"><line x1="0" y1="0" x2="0" y2="18" stroke="#f08c00" stroke-width="0.9" opacity="0.26"/></pattern>
+<path id="p17" d="M 1282.0,583.1 L 1357.0,583.4 L 1432.0,582.9 L 1432.8,591.0 L 1433.3,598.0 L 1357.0,598.4 L 1282.0,597.6 L 1281.3,591.0 Z"/>
+<clipPath id="c17"><use href="#p17"/></clipPath>
+<path id="p18" d="M 1283.0,583.9 L 1307.3,584.9 L 1331.6,585.7 L 1330.4,591.0 L 1332.8,597.0 L 1307.3,596.0 L 1283.0,597.5 L 1282.2,591.0 Z"/>
+<clipPath id="c18"><use href="#p18"/></clipPath>
+<path id="p19" d="M 52.0,654.6 L 145.5,655.5 L 239.1,653.7 L 332.6,653.8 L 426.2,653.6 L 519.7,652.8 L 613.2,653.6 L 706.8,653.5 L 800.3,653.9 L 893.8,654.6 L 987.4,653.7 L 1080.9,654.1 L 1174.5,653.4 L 1268.0,655.4 L 1266.8,685.0 L 1269.3,716.0 L 1174.5,715.2 L 1080.9,717.1 L 987.4,714.8 L 893.8,715.3 L 800.3,717.2 L 706.8,715.0 L 613.2,716.8 L 519.7,717.0 L 426.2,717.0 L 332.6,716.5 L 239.1,717.3 L 145.5,715.7 L 52.0,716.1 L 52.0,685.0 Z"/>
+<clipPath id="c19"><use href="#p19"/></clipPath>
+<pattern id="h19" width="18" height="18" patternUnits="userSpaceOnUse" patternTransform="rotate(-41)"><line x1="0" y1="0" x2="0" y2="18" stroke="#e03131" stroke-width="0.9" opacity="0.26"/></pattern>
+<marker id="mA" markerWidth="11" markerHeight="9" refX="10" refY="4.5" orient="auto"><path d="M0,0 L11,4.5 L0,9 z" fill="#868e96"/></marker><marker id="mG" markerWidth="11" markerHeight="9" refX="10" refY="4.5" orient="auto"><path d="M0,0 L11,4.5 L0,9 z" fill="#2f9e44"/></marker></defs>
+<use href="#p0" fill="#e9ecef"/>
+<g clip-path="url(#c0)"><rect x="52" y="152" width="176" height="68" fill="url(#h0)"/></g>
+<use href="#p1" fill="#a5d8ff"/>
+<g clip-path="url(#c1)"><rect x="262" y="138" width="176" height="96" fill="url(#h1)"/></g>
+<use href="#p2" fill="#fff3bf"/>
+<g clip-path="url(#c2)"><rect x="472" y="138" width="176" height="96" fill="url(#h2)"/></g>
+<use href="#p3" fill="#b2f2bb"/>
+<g clip-path="url(#c3)"><rect x="682" y="138" width="176" height="96" fill="url(#h3)"/></g>
+<use href="#p4" fill="#e9ecef"/>
+<g clip-path="url(#c4)"><rect x="892" y="152" width="176" height="68" fill="url(#h4)"/></g>
+<use href="#p5" fill="#a5d8ff"/>
+<g clip-path="url(#c5)"><rect x="52" y="300" width="636" height="118" fill="url(#h5)"/></g>
+<use href="#p6" fill="#b2f2bb"/>
+<g clip-path="url(#c6)"><rect x="710" y="300" width="636" height="118" fill="url(#h6)"/></g>
+<use href="#p7" fill="#b2f2bb"/>
+<g clip-path="url(#c7)"><rect x="52" y="486" width="262" height="124" fill="url(#h7)"/></g>
+<use href="#p8" fill="#f8f9fa"/>
+<use href="#p9" fill="#2f9e44"/>
+<use href="#p10" fill="#fff3bf"/>
+<g clip-path="url(#c10)"><rect x="457" y="486" width="262" height="124" fill="url(#h10)"/></g>
+<use href="#p11" fill="#f8f9fa"/>
+<use href="#p12" fill="#e67700"/>
+<use href="#p13" fill="#ffc9c9"/>
+<g clip-path="url(#c13)"><rect x="863" y="486" width="262" height="124" fill="url(#h13)"/></g>
+<use href="#p14" fill="#f8f9fa"/>
+<use href="#p15" fill="#e03131"/>
+<use href="#p16" fill="#ffec99"/>
+<g clip-path="url(#c16)"><rect x="1268" y="486" width="262" height="124" fill="url(#h16)"/></g>
+<use href="#p17" fill="#f8f9fa"/>
+<use href="#p18" fill="#e8590c"/>
+<use href="#p19" fill="#ffc9c9"/>
+<g clip-path="url(#c19)"><rect x="52" y="654" width="1216" height="62" fill="url(#h19)"/></g>
+<use href="#p0" fill="none" stroke="#868e96" stroke-width="2" stroke-linejoin="round"/>
+<use href="#p1" fill="none" stroke="#1971c2" stroke-width="2" stroke-linejoin="round"/>
+<use href="#p2" fill="none" stroke="#e67700" stroke-width="2" stroke-linejoin="round"/>
+<use href="#p3" fill="none" stroke="#2f9e44" stroke-width="2" stroke-linejoin="round"/>
+<use href="#p4" fill="none" stroke="#868e96" stroke-width="2" stroke-linejoin="round"/>
+<use href="#p5" fill="none" stroke="#1971c2" stroke-width="2" stroke-linejoin="round"/>
+<use href="#p6" fill="none" stroke="#2f9e44" stroke-width="2" stroke-linejoin="round"/>
+<use href="#p7" fill="none" stroke="#2f9e44" stroke-width="2" stroke-linejoin="round"/>
+<use href="#p8" fill="none" stroke="#868e96" stroke-width="1" stroke-linejoin="round"/>
+<use href="#p9" fill="none" stroke="#2f9e44" stroke-width="1" stroke-linejoin="round"/>
+<use href="#p10" fill="none" stroke="#e67700" stroke-width="2" stroke-linejoin="round"/>
+<use href="#p11" fill="none" stroke="#868e96" stroke-width="1" stroke-linejoin="round"/>
+<use href="#p12" fill="none" stroke="#e67700" stroke-width="1" stroke-linejoin="round"/>
+<use href="#p13" fill="none" stroke="#e03131" stroke-width="2" stroke-linejoin="round"/>
+<use href="#p14" fill="none" stroke="#868e96" stroke-width="1" stroke-linejoin="round"/>
+<use href="#p15" fill="none" stroke="#e03131" stroke-width="1" stroke-linejoin="round"/>
+<use href="#p16" fill="none" stroke="#f08c00" stroke-width="2" stroke-linejoin="round"/>
+<use href="#p17" fill="none" stroke="#868e96" stroke-width="1" stroke-linejoin="round"/>
+<use href="#p18" fill="none" stroke="#e8590c" stroke-width="1" stroke-linejoin="round"/>
+<use href="#p19" fill="none" stroke="#e03131" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 228.0,185.6 L 244.4,186.8 L 261.2,187.0" fill="none" stroke="#868e96" stroke-width="2" marker-end="url(#mA)" stroke-linecap="round"/>
+<path d="M 437.4,184.7 L 453.9,185.4 L 472.3,185.3" fill="none" stroke="#868e96" stroke-width="2" marker-end="url(#mA)" stroke-linecap="round"/>
+<path d="M 647.4,185.0 L 663.7,187.3 L 681.8,187.1" fill="none" stroke="#868e96" stroke-width="2" marker-end="url(#mA)" stroke-linecap="round"/>
+<path d="M 858.3,184.8 L 875.5,187.1 L 893.2,185.4" fill="none" stroke="#868e96" stroke-width="2" marker-end="url(#mA)" stroke-linecap="round"/>
+<path d="M 769.2,235.1 L 770.3,249.1 L 769.2,263.9" fill="none" stroke="#2f9e44" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#mG)" stroke-linecap="round"/>
+<path d="M 770.4,263.4 L 710.8,265.3 L 648.8,262.7 L 590.0,265.2 L 530.0,263.3 L 469.9,264.4 L 410.4,264.4 L 350.1,265.0" fill="none" stroke="#2f9e44" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#mG)" stroke-linecap="round"/>
+<path d="M 351.2,263.5 L 349.3,248.3 L 349.2,235.0" fill="none" stroke="#2f9e44" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#mG)" stroke-linecap="round"/>
+<text x="52.0" y="50.0" font-size="26" font-weight="bold" fill="#1b1b1f">LLM inference profiling — where the bottleneck actually sits</text>
+<text x="52.0" y="73.0" font-size="13" font-weight="normal" fill="#868e96">Qwen2.5-7B · bf16 · vLLM 0.7.3 · 1x A100-SXM4-80GB</text>
+<text x="66.0" y="179.3" font-size="17" font-weight="bold" fill="#1b1b1f">prompt</text>
+<text x="66.0" y="200.4" font-size="12" font-weight="normal" fill="#868e96">≤ 8192 tok</text>
+<text x="276.0" y="179.3" font-size="17" font-weight="bold" fill="#1b1b1f">PREFILL</text>
+<text x="276.0" y="200.4" font-size="12" font-weight="normal" fill="#868e96">compute-bound</text>
+<text x="486.0" y="179.3" font-size="17" font-weight="bold" fill="#1b1b1f">KV CACHE</text>
+<text x="486.0" y="200.4" font-size="12" font-weight="normal" fill="#868e96">56 KB / tok</text>
+<text x="696.0" y="179.3" font-size="17" font-weight="bold" fill="#1b1b1f">DECODE</text>
+<text x="696.0" y="200.4" font-size="12" font-weight="normal" fill="#868e96">bandwidth-bound</text>
+<text x="906.0" y="179.3" font-size="17" font-weight="bold" fill="#1b1b1f">output</text>
+<text x="906.0" y="200.4" font-size="12" font-weight="normal" fill="#868e96">tokens</text>
+<text x="446.0" y="282.0" font-size="12" font-weight="normal" fill="#2f9e44">full parameter set re-read from HBM every step</text>
+<text x="52.0" y="285.0" font-size="15" font-weight="normal" fill="#e67700">roofline position</text>
+<text x="68.0" y="329.0" font-size="16" font-weight="bold" fill="#1971c2">PREFILL</text>
+<text x="68.0" y="355.0" font-size="13" font-weight="normal" fill="#1864ab">84% MFU at 8k · 312 TFLOP/s roof</text>
+<text x="68.0" y="371.9" font-size="13" font-weight="normal" fill="#1864ab">62883 → 64678 ns/token (+2.9%)</text>
+<text x="68.0" y="388.8" font-size="13" font-weight="normal" fill="#1864ab">superlinear: FLOP model says +5.1%</text>
+<text x="726.0" y="329.0" font-size="16" font-weight="bold" fill="#2f9e44">DECODE</text>
+<text x="726.0" y="355.0" font-size="13" font-weight="normal" fill="#2b8a3e">ITL 12.5 ms flat · roof 7.5 ms</text>
+<text x="726.0" y="371.9" font-size="13" font-weight="normal" fill="#2b8a3e">60% of peak bandwidth reached</text>
+<text x="726.0" y="388.8" font-size="13" font-weight="normal" fill="#2b8a3e">cost per token independent of length</text>
+<text x="52.0" y="471.0" font-size="15" font-weight="normal" fill="#e67700">as concurrency rises</text>
+<text x="66.0" y="514.0" font-size="16" font-weight="bold" fill="#2f9e44">c = 1</text>
+<text x="66.0" y="539.0" font-size="17" font-weight="bold" fill="#1b1b1f">80 tok/s</text>
+<text x="66.0" y="560.0" font-size="12" font-weight="normal" fill="#868e96">60% of peak BW</text>
+<text x="66.0" y="576.0" font-size="12" font-weight="normal" fill="#868e96">bandwidth-bound</text>
+<text x="471.3" y="514.0" font-size="16" font-weight="bold" fill="#e67700">c = 16</text>
+<text x="471.3" y="539.0" font-size="17" font-weight="bold" fill="#1b1b1f">1038 tok/s</text>
+<text x="471.3" y="560.0" font-size="12" font-weight="normal" fill="#868e96">weights shared</text>
+<text x="471.3" y="576.0" font-size="12" font-weight="normal" fill="#868e96">knee</text>
+<text x="876.7" y="514.0" font-size="16" font-weight="bold" fill="#e03131">c = 64</text>
+<text x="876.7" y="539.0" font-size="17" font-weight="bold" fill="#1b1b1f">2429 tok/s</text>
+<text x="876.7" y="560.0" font-size="12" font-weight="normal" fill="#868e96">33% BW · 12% FLOP</text>
+<text x="876.7" y="576.0" font-size="12" font-weight="normal" fill="#868e96">neither roof</text>
+<text x="1282.0" y="514.0" font-size="16" font-weight="bold" fill="#e8590c">one c=64 step</text>
+<text x="1282.0" y="539.0" font-size="17" font-weight="bold" fill="#1b1b1f">26 ms total</text>
+<text x="1282.0" y="560.0" font-size="12" font-weight="normal" fill="#868e96">9 ms memory transfer</text>
+<text x="1282.0" y="576.0" font-size="12" font-weight="normal" fill="#e8590c">18 ms engine overhead</text>
+<text x="68.0" y="681.0" font-size="15" font-weight="bold" fill="#c92a2a">above ~16 concurrent requests neither roof saturates  →  limited by per-step overhead (18 ms of 26 ms), not by the GPU</text>
+<text x="52.0" y="746.0" font-size="12" font-weight="normal" fill="#868e96">TP=1 throughout (no multi-GPU config available)  ·  no kernel counters (Nsight blocked in container)  ·  offline generate() exposes no per-token stream, so mean ITL only</text>
+</svg>
