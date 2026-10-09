@@ -1,8 +1,15 @@
 # LLM Inference Profiling: Qwen2.5-7B on A100-SXM4-80GB
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![vLLM 0.7.3](https://img.shields.io/badge/vLLM-0.7.3-blue)](https://github.com/vllm-project/vllm)
+[![PyTorch 2.5.1+cu124](https://img.shields.io/badge/PyTorch-2.5.1%2Bcu124-ee4c2c)](https://pytorch.org)
+[![A100 80GB](https://img.shields.io/badge/GPU-A100--80GB-76b900)](https://www.nvidia.com/en-us/data-center/a100/)
+
 A measurement study of what actually constrains LLM serving throughput. Rather than reporting latency numbers in isolation, this work decomposes a serving workload into its two constituent phases, characterises each against a hardware roofline derived from the model's architecture, and identifies where the bottleneck moves as concurrency rises.
 
 **Headline result:** prefill is compute-bound and already runs at 80–84% of the A100's dense bf16 ceiling — there is little headroom left. Decode is bandwidth-bound, achieving 60% of peak HBM throughput with a per-token cost that is invariant to sequence length. Above roughly 16 concurrent requests, neither roof is saturated and throughput becomes limited by per-step engine overhead rather than by the GPU.
+
+**Author:** [Yuvraj Singh Bhadoria](https://github.com/YuvrajSinghbhado) · **Repository:** [`vllm-inference-profiling`](https://github.com/YuvrajSinghbhado/vllm-inference-profiling)
 
 ## Key Findings
 
@@ -151,6 +158,8 @@ Stated explicitly, as they bound the conclusions above.
 ## Reproduction
 
 ```bash
+git clone https://github.com/YuvrajSinghbhado/vllm-inference-profiling.git
+cd vllm-inference-profiling
 pip install -r requirements.txt
 python bench.py --out results
 ```
