@@ -7,17 +7,21 @@ load-bearing numbers appear as labels. Same sketchy Excalidraw style.
 All figures are computed from the CSVs and asserted at build time.
 
 Outputs:
-  architecture.excalidraw   editable source (open at excalidraw.com)
-  architecture.svg          vector render
+  results/architecture.png         raster render (tracked)
+  results/architecture.excalidraw  editable source (tracked)
+  architecture.svg                 local build intermediate (gitignored)
 """
 import json
 import random
 import time
 
+from pathlib import Path
+
 import pandas as pd
 
 # ============================================================ data + guards
-PRE, DEC, TP = (pd.read_csv(f) for f in ("prefill.csv", "decode.csv", "throughput.csv"))
+OUT = Path("results")
+PRE, DEC, TP = (pd.read_csv(OUT / f) for f in ("prefill.csv", "decode.csv", "throughput.csv"))
 P, D, L = 7.615e9, 3584, 28
 BW, PEAK = 2039e9, 312e12
 W_BYTES = 14.25 * 2**30
@@ -230,7 +234,7 @@ json.dump({"type": "excalidraw", "version": 2, "source": "https://excalidraw.com
            "elements": E,
            "appState": {"gridSize": None, "viewBackgroundColor": "#ffffff"},
            "files": {}},
- open("architecture.excalidraw", "w"), indent=1)
+ open("results/architecture.excalidraw", "w"), indent=1)
 print(f"wrote architecture.excalidraw — {len(E)} elements")
 
 # ------------------------------------------------------------------- SVG

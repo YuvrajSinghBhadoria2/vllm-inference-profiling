@@ -1,6 +1,20 @@
+# Build intermediates. Regenerate with: python make_arch.py
+architecture.svg
+
+# Reproduce with: python bench.py --out results
+results/*
+!results/prefill.csv
+!results/decode.csv
+!results/throughput.csv
+!results/figures.png
+!results/roofline.png
+!results/architecture.png
+!results/architecture.excalidraw
+
+# Editable diagram source — tracked so the figure stays editable in-repo
+!results/architecture.excalidraw
+
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
-results/
 .venv/
-architecture.svg
