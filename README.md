@@ -9,7 +9,7 @@ A measurement study of what actually constrains LLM serving throughput. Rather t
 
 **Headline result:** prefill is compute-bound and already runs at 80–84% of the A100's dense bf16 ceiling — there is little headroom left. Decode is bandwidth-bound, achieving 60% of peak HBM throughput with a per-token cost that is invariant to sequence length. Above roughly 16 concurrent requests, neither roof is saturated and throughput becomes limited by per-step engine overhead rather than by the GPU.
 
-**Author:** [Yuvraj Singh Bhadoria](https://github.com/YuvrajSinghbhado) · **Repository:** [`vllm-inference-profiling`](https://github.com/YuvrajSinghbhado/vllm-inference-profiling)
+**Author:** [Yuvraj Singh Bhadoria](https://github.com/YuvrajSinghBhadoria2) · **Repository:** [`vllm-inference-profiling`](https://github.com/YuvrajSinghBhadoria2/vllm-inference-profiling)
 
 ## Key Findings
 
@@ -158,7 +158,7 @@ Stated explicitly, as they bound the conclusions above.
 ## Reproduction
 
 ```bash
-git clone https://github.com/YuvrajSinghbhado/vllm-inference-profiling.git
+git clone https://github.com/YuvrajSinghBhadoria2/vllm-inference-profiling.git
 cd vllm-inference-profiling
 pip install -r requirements.txt
 python bench.py --out results
