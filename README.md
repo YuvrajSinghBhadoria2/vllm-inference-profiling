@@ -187,7 +187,7 @@ TTFT and ITL are obtained by subtraction: one generation call requesting a singl
 | `throughput.csv` | Aggregate and per-user throughput vs concurrency, with marginal gain |
 | `figures.png` | Prefill latency, decode latency, and throughput summary |
 | `roofline.png` | Roofline with measured operating points |
-| `architecture.png` / `.svg` | Block diagram of phases, roofline position, concurrency behaviour |
+| `architecture.png` | Block diagram of phases, roofline position, concurrency behaviour |
 | `architecture.excalidraw` | Editable source for the diagram (open at excalidraw.com) |
 | `make_arch.py` | Diagram generator — reads the CSVs, asserts every figure it draws |
 | `LICENSE` | MIT |
